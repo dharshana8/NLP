@@ -1,0 +1,14 @@
+# venv
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PDF files (optional - remove this line if you want to push PDFs)
+*.pdf
